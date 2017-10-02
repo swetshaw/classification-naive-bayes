@@ -1,2 +1,2 @@
 # classification-naive-bayes
-A short tutorial on Naive Bayes.
+A short tutorial on classification using Gaussian Naive Bayes.
